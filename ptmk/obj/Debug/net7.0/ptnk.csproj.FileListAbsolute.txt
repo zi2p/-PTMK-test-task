@@ -1,0 +1,15 @@
+C:\Users\julia\RiderProjects\ptnk\ptnk\bin\Debug\net7.0\ptnk.exe
+C:\Users\julia\RiderProjects\ptnk\ptnk\bin\Debug\net7.0\ptnk.deps.json
+C:\Users\julia\RiderProjects\ptnk\ptnk\bin\Debug\net7.0\ptnk.runtimeconfig.json
+C:\Users\julia\RiderProjects\ptnk\ptnk\bin\Debug\net7.0\ptnk.dll
+C:\Users\julia\RiderProjects\ptnk\ptnk\bin\Debug\net7.0\ptnk.pdb
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.csproj.AssemblyReference.cache
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.AssemblyInfoInputs.cache
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.AssemblyInfo.cs
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.csproj.CoreCompileInputs.cache
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.dll
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\refint\ptnk.dll
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.pdb
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ptnk.genruntimeconfig.cache
+C:\Users\julia\RiderProjects\ptnk\ptnk\obj\Debug\net7.0\ref\ptnk.dll
